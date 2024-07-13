@@ -10,10 +10,6 @@ This Java Quiz Application is a simple desktop quiz game built using Swing and A
 - **Next and Submit Buttons**: Users can navigate through the questions using the "Next" button and submit their answers at the end.
 - **Score Calculation**: The application calculates the final score based on the number of correct answers.
 
-## Screenshots
-
-![Quiz Application](icons/quiz.jpg)
-
 ## Prerequisites
 
 - Java Development Kit (JDK) 8 or higher
